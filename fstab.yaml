@@ -1,4 +1,4 @@
-# The default is for AEM UE. Make sure to change the URL to your AEM instance and GitHub repository.
+# The default is for AEM UE. Make sure to change the URL to your AEM instance and GitHub repository. test
 mountpoints:
    /:
      url: "https://author-p151952-e1572189.adobeaemcloud.com/bin/franklin.delivery/aclarke-adobe/citisignal-test/main"
